@@ -1,0 +1,19 @@
+{
+    "name": "asharirfan/flush-permalinks-button",
+    "description": "Adds a button to flush permalinks in WordPress admin bar.",
+    "type": "wordpress-plugin",
+    "license": "GPU-2.0",
+    "minimum-stability": "stable",
+    "require-dev": {
+        "wp-coding-standards/wpcs": "^2.3",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+        "phpcompatibility/php-compatibility": "^9.3"
+    },
+    "scripts": {
+        "lint": "@php ./vendor/squizlabs/php_codesniffer/bin/phpcs --standard=phpcs.xml --extensions=php ."
+    },
+    "extra": {
+        "installer-name": "flush-permalinks-button",
+        "phpcodesniffer-search-depth": 4
+    }
+}
