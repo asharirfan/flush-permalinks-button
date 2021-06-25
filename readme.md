@@ -1,6 +1,6 @@
 # Flush Permalinks Button
 
-WordPress plugin to add a button to flush permalinks in WordPress admin bar.
+A WordPress plugin to add a button to flush permalinks in WordPress admin bar.
 
 ## 💾 Installation
 - [Download](https://wordpress.org/plugins) the plugin
