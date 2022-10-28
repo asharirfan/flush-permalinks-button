@@ -3,7 +3,7 @@
  * Plugin Name:       Flush Permalinks Button
  * Plugin URI:        https://github.com/asharirfan/flush-permalinks-button
  * Description:       Adds a button to flush permalinks in WordPress admin bar.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Requires at least: 5.7
  * Requires PHP:      7.3
  * Author:            MrAsharIrfan
